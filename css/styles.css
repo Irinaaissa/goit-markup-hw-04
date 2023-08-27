@@ -283,7 +283,10 @@ a {
 .social-icons-color{
   fill: #F4F4FD;
 }
-
+.social-icons:hover,
+ .social-icons:focus {
+color:blueviolet;
+}
 
 .icons .social-icons {
   display: flex;
